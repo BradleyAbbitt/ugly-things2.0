@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "react-axios": "^2.0.6"
+  }
+}
